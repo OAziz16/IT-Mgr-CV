@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omar AbdulAziz - IT Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 5px; /* تقليل المسافة أسفل الاسم */
+        }
+        .profile-image {
+            display: block;
+            margin: 20px auto;
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 2px solid #0056b3;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: #0056b3;
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .job-title {
+            font-size: 18px;
+            color: #555;
+            margin-bottom: 20px;
+            margin-top: 0; /* إزالة المسافة العلوية */
+        }
+        .name {
+            color: #0056b3; /* لون أزرق لكلمة Omar */
+            margin-bottom: 0;
+
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1><span class="name">Omar</span> AbdulAziz</h1>
+    <p class="job-title">Assistant IT Manager (About 6 Years Experience)</p>
+    
+
+    <!-- صورة الشخصية -->
+    <img src="AzizPhoto.jpg" alt="Omar AbdulAziz" class="profile-image">
+
+    <p class="contact-info">
+        <strong>Whatsapp: </strong><a href="https://wa.me/+201065438839">(+2) 010 6543 8839:</a><br>
+        <strong>Phone zanzibar :</strong> (+255) 785 436 863<br>
+        <strong>Phone Egypt:</strong> (+2) 011 1783 6042<br>
+        <strong>Email: </strong> <a href="mailto:O_Aziz@outlook.sa">O_Aziz@outlook.sa</a>
+    </p>
+
+    <div class="section">
+        <h2>Summary</h2>
+        <p>I am a certified IT & security professional from Google & IBM with a degree in Information Systems, graduated with honors. With proven leadership skills and a passion for using technology to drive business success, I am eager to take on new challenges in the IT field.</p>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Asst IT Manager (Cluster 10 Hotels) | Oct 2022 - Now</strong> <br> 
+                <a href="https://www.jazhotels.com/destinations/madinat-makadi?nodes=10005r">JAZ Hotel Group</a> & 
+                <a href="https://www.jazhotels.com/hoteldetail/65-egypt-hurghada-madinat-makadi-steigenberger-makadi/overview">Steigenberger Makadi</a> & 
+                <a href="https://iberotelmakadibeach.com-hurghada.com/en/">Iberotel Makadi Beach</a> & 
+                <a href="https://www.tui-blue.com/en/en/hotels/tui-blue-makadi/">TUI BLUE Makadi</a></li><br>
+
+            <li><strong>Asst IT Manager | Jun 2022 - Oct 2022</strong> <br> <a href="https://www.elkarma-hotels.com/">El Karma Hotels & Resorts</a></li><br>
+            <li><strong>Supervisor | May 2021 - Jun 2022</strong> <br> <a href="https://www.booking.com/hotel/eg/alibaba-palace.ar.html">Ali Baba Palace</a> & <a href="https://www.booking.com/hotel/eg/dessole-aladdin-beach-resort-hurghada20.ar.html">Aladdin Beach Resort</a></li><br>
+            <li><strong>IT Specialist | Jul 2020 - May 2021</strong> <br> <a href="https://pcs.com.eg/">Perfect Computer System [PCS]</a> </li><br>
+            <li><strong>IT Specialist | Mar 2019 - Mar 2020</strong> <br> Egyptian Armed Forces</li><br>
+            <li><strong>IT Help Desk | Jun 2018 - Jan 2019</strong> <br> Arab Engineering and Distribution Company [AEDCO]</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <p><strong>B.S.C of MIS</strong> | May 2018 | Graduated with Excellent Grade</p>
+    </div>
+
+
+    <div class="section">
+        <h2>Certifications</h2>
+        <ul>
+            <li>IBM Cybersecurity Analyst Professional</li>
+            <li>IBM IT Support Professional</li>
+            <li>Google IT Automation with Python Professional</li>
+            <li>Google IT Support Professional</li>
+            <li>Python for Everybody Specialization [University of Michigan]</li>
+            <li>IBM Business Intelligence Analyst [2017]</li>
+            <li>IBM Cloud Application Developer [2016]</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>COURSES</h2>
+        <ul>
+            <li>CCNP Enterprise Core <strong>[ ENCOR 350-401 ]</strong></li>
+            <li>Cisco Certified Network Associate <strong>[ CCNA 200-301 ]</strong></li>
+            <li>Microsoft Certified Solutions Associate  <strong>[ MCSA Core 2016 ]</strong></li>
+            <li><strong>Bitdefender - Fortigate - Mikrotik - IAC Box
+            </strong></li>
+        </ul>
+    </div>
+
+
+
+    <div class="section">
+        <h2>ERP System</h2>
+        <ul>
+            <li><strong>Hospitality:</strong> Opera PMS - Suite 8 - Comsys</li>
+            <li><strong>Wi-Fi Controller:</strong> Aruba - Omada - TP-Link</li>
+            <li><strong>E-DoorLocks:</strong> Visionline - Bis Hotel - Onity</li>
+            <li><strong>HR:</strong> Maestro - Payroll</li>
+            <li><strong>Accounting:</strong> Sun System - Material Control - Comsys</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Examples of Leadership Skills</h2>
+        <ul>
+            <li><strong>Developed an IT Support System</strong><br>Gained extensive knowledge in team leadership and managing large-scale projects through my role as an assistant to the IT manager.</li>
+            <li><strong>Assistant to the IT Manager</strong><br>Gained extensive knowledge in team leadership and managing large-scale projects through my role as an assistant to the IT manager.</li>
+            <li><strong>Technology Support Specialist</strong><br>My role as a technology support specialist at Aladdin Beach Resort in Hurghada enabled me to handle all electronic devices and network systems in a challenging work environment..</li>
+            <li><strong>Graduated with Honors in Information Systems</strong><br>Graduating with honors in Information Systems reflects the extent of my technical skills..</li>
+        </ul>
+    </div>
+
+
+    <div class="section">
+        <h2>Management Skills</h2>
+        <ul>
+            <li><strong>Managing IT Support Teams</strong><br>Experienced in managing IT support teams and delivering excellent customer service.</li>
+            <li><strong>Technical Expertise</strong><br>Proficient in network administration, systems management, and software development.</li>
+            <li><strong>Familiarity with IT Policies and Procedures</strong><br>Knowledgeable in IT policies, procedures, and best practices for security, reliability, and scalability.</li>
+            <li><strong>Strong Problem-Solving Skills:</strong><br>Possess strong problem-solving skills and the ability to think creatively to provide technical solutions.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>References</h2>
+        <ul>
+            <li>
+                <strong>Mr. Mohamed Al-Shater</strong><br>
+                Regional IT Manager for JAZ Hotels Worldwide, inside and outside Egypt<br>
+                Phone & Whatsapp: <a href="https://wa.me/+201020100333">+20 1020100333</a><br>
+            </li>
+            <li>
+                <strong>Mr. Ashraf El-Dib</strong><br>
+                Regional IT Manager for JAZ Hotels in the Red Sea and Luxor, Egypt<br>
+                Phone & Whatsapp: <a href="https://wa.me/+201227858886">+20 1227858886</a><br>
+            </li>
+            <li>
+                <strong>Mr. Karim Mohamed</strong><br>
+                IT Area Manager in Madinat Makadi<br>
+                JAZ Hotel Group & Steigenberger Makadi & Iberotel Makadi Beach & TUI BLUE Makadi<br>
+                Phone & Whatsapp: <a href="https://wa.me/+201003591861">+20 1003591861</a><br>
+            </li>
+            <li>
+                <strong>Mr. Islam Said</strong><br>
+                Assistant IT Area Manager in Madinat Makadi<br>
+                JAZ Hotel Group & Steigenberger Makadi & Iberotel Makadi Beach & TUI BLUE Makadi<br>
+                Phone & Whatsapp: <a href="https://wa.me/+201000433968">+20 1000433968</a><br>
+
+            </li>
+        </ul>
+    </div>
+
+
+
+</div>
+
+</body>
+</html>
